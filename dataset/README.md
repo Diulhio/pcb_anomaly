@@ -2,8 +2,6 @@
 
 The full dataset used in the paper is available in the following links:
 
-https://drive.google.com/drive/folders/1xKCJurNPPKhXvcG7BK1Ea1JjPn9FOSpY?usp=sharing
-
 - The images in the original size: Available soon...
 - The images already split in grids as presented in the paper: [Google Drive](https://drive.google.com/drive/folders/1xKCJurNPPKhXvcG7BK1Ea1JjPn9FOSpY?usp=sharing)
 - The .tfrecord used in the training using Google Colab TPUs*: [Google Drive](https://drive.google.com/file/d/1mOp_5btffGST3LdnCzywDa0KtDboQ0hb/view?usp=sharing)
