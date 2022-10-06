@@ -12,7 +12,7 @@ The dataset is available at: https://github.com/Diulhio/pcb_anomaly/tree/main/da
 
 Please cite: http://arxiv.org/abs/2210.00100
 
-
+```
 @article{OliveiraDC2022,
   doi = {10.48550/ARXIV.2210.00100},  
   url = {https://arxiv.org/abs/2210.00100},  
@@ -21,7 +21,7 @@ Please cite: http://arxiv.org/abs/2210.00100
   publisher = {arXiv},  
   year = {2022},
 }
-
+```
 
 
 
