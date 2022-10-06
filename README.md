@@ -10,9 +10,20 @@ Please, note that the training notebooks that use TPUs requires that you upload 
 
 The dataset is available at: https://github.com/Diulhio/pcb_anomaly/tree/main/dataset
 
-Please cite: TODO
+Please cite: http://arxiv.org/abs/2210.00100
 
-http://arxiv.org/abs/2210.00100
+
+@article{https://doi.org/10.48550/arxiv.2210.00100,
+  doi = {10.48550/ARXIV.2210.00100},  
+  url = {https://arxiv.org/abs/2210.00100},  
+  author = {de Oliveira, Diulhio Candido and Nassu, Bogdan Tomoyuki and Wehrmeister, Marco Aurelio},  
+  title = {Image-Based Detection of Modifications in Gas Pump PCBs with Deep Convolutional Autoencoders},  
+  publisher = {arXiv},  
+  year = {2022},
+}
+
+
+
 
 ## Abstract
 
