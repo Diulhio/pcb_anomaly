@@ -4,6 +4,7 @@ The full dataset used in the paper is available at Zenodo: https://zenodo.org/re
 
 If you use the dataset, please cite us:
 
+```
 @article{candido2023image,
   title={Image-Based Detection of Modifications in Assembled PCBs with Deep Convolutional Autoencoders},
   author={Candido de Oliveira, Diulhio and Nassu, Bogdan Tomoyuki and Wehrmeister, Marco Aurelio},
@@ -14,3 +15,4 @@ If you use the dataset, please cite us:
   year={2023},
   publisher={MDPI}
 }
+```
